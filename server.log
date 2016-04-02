@@ -1,0 +1,7 @@
+(2016-01-07 18:54:49) Socket server listening on port 44442
+(2016-01-07 18:54:50) ForceEffect plugin initialized
+(2016-01-07 18:54:51) HTTP server listening on port 44441
+(2016-01-07 18:54:53) Inventor Connect plugin initialized
+(2016-01-07 18:55:01) Connection accepted from ::1, assigned id "sid_0"
+(2016-01-07 18:55:02) Socket (id: sid_0) assigned room "inv-connect" channels ["4812"]
+(2016-01-07 18:55:21) Socket (id: sid_0) disconnected.
